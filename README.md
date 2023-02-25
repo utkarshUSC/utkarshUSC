@@ -3,11 +3,11 @@
 ```js
 const Utkarsh Baranwal = {
   pronouns: "he" | "him" | "his",
-  Programming Languages: ["Python", "C++", "Golang"],
-  Database: ["MySQL", "Redshift", "Aerospike", "Redis"],
+  Programming Languages: ["Python", "C++", "Golang", "Javascript", "Typescript", "Java", "NodeJS"],
+  Database: ["MySQL", "Redshift", "Aerospike", "Redis", "Snowflake", "Cassandra"],
   Machine Learning Libraries: ["Numpy", "Matplotlib", "Pandas", "Pyspark", "Scikit", "OpenCV", "Pytorch", "Tensorflow"],
   Data Stream Processing Framework: ["Kafka", "Spark", "AWS Glue", Hadoop],
-  Tools: [ Linux, Git, Docker, Jenkins, Databricks, JupyterHub, S3 bucket, Grafana, Sumo Logic, Newrelic],
+  Tools: [ "Linux", "Git", "Docker", "Jenkins", "Databricks", "Grafana", "Looker", "AngularJS", "Flask", "Django", "Android", "AWS", GCP, , "EKS", "S3"],
 }
 ```
 
