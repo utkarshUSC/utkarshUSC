@@ -33,7 +33,7 @@ const Utkarsh Baranwal = {
 </div>
 # &#x1f4c8; GitHub Stats
 
-<img  src="https://github-readme-stats.vercel.app/api?username=utkarshUSC&show_icons=true&hide_border=true&bg_color=1d1f21&title_color=E0610E&text_color=666666&icon_color=E0610E" width="45%" align="right" >
+#<img  src="https://github-readme-stats.vercel.app/api?username=utkarshUSC&show_icons=true&hide_border=true&bg_color=1d1f21&title_color=E0610E&text_color=666666&icon_color=E0610E" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=utkarshUSC&theme=dark&hide_border=true&background=1D1F21&stroke=E0610E&ring=E0610E&fire=DD2727&currStreakNum=666666&sideNums=666666&currStreakLabel=E0610E&sideLabels=E0610E&dates=666666" width="45%" >
 
