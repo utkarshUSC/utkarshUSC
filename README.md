@@ -15,7 +15,7 @@ const Utkarsh Baranwal = {
 
 <p align="center">
   <em>
-    <a src="https://www.linkedin.com/in/utkarsh-baranwal-907438106/"><b><i align="center">Linkedin profile </i></b> </a>
+    <b><i align="center">Passionate about harnessing AI's power for real-world problems</i></b> 
   </em> 
   <br><br>
 </p>
