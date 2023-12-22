@@ -11,7 +11,7 @@ const Utkarsh Baranwal = {
 }
 ```
 
-<h3 align="center">Currently a Computer Science graduate student at USC. </h3>
+<h3 align="center">Senior Software Engineer in Machine Learning @Ancilia Inc. | MS in Computer Science @ University of Southern California |5+ years of experience in Software Engineering and Machine Learning </h3>
 
 <p align="center">
   <em>
